@@ -3,7 +3,7 @@
 ## A react-native application along with redux-components
 
 * Start Page
-
+<img src="https://github.com/shahksh1011/Tic-tac-toe/blob/master/images/page-1.png" width="48">
 [image](/images/page-1.png)
 
 * Game Start
