@@ -2,7 +2,23 @@
 
 ## A react-native application along with redux-components
 
-*Item1
+* Start Page
 
-![GitHub Logo](/images/page-1.png)
+![GitHub Logo](/images/page-1.png = 250x250)
 Format: ![Alt Text](url)
+
+* Game Start
+
+![GitHub Logo](/images/page-2.png = 250x250)
+Format: ![Alt Text](url)
+
+* Game In Progress
+
+![GitHub Logo](/images/page-3.png = 250x250)
+Format: ![Alt Text](url)
+
+* Game End
+
+![GitHub Logo](/images/page-4.png = 250x250)
+Format: ![Alt Text](url)
+
