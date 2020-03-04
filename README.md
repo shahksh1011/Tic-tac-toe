@@ -4,17 +4,16 @@
 
 * Start Page
 <img src="https://github.com/shahksh1011/Tic-tac-toe/blob/master/images/page-1.png" width="250">
-[image](/images/page-1.png)
 
 * Game Start
 
-![GitHub Logo](/images/page-2.png)
+<img src="https://github.com/shahksh1011/Tic-tac-toe/blob/master/images/page-2.png" width="250">
 
 * Game In Progress
 
-![GitHub Logo](/images/page-3.png)
+<img src="https://github.com/shahksh1011/Tic-tac-toe/blob/master/images/page-3.png" width="250">
 
 * Game End
 
-![GitHub Logo](/images/page-4.png)
+<img src="https://github.com/shahksh1011/Tic-tac-toe/blob/master/images/page-4.png" width="250">
 
