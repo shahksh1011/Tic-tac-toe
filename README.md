@@ -4,7 +4,7 @@
 
 * Start Page
 
-![GitHub Logo](/images/page-1.png = 250x250)
+![GitHub Logo](/images/page-1.png {width=40px height=400px})
 Format: ![Alt Text](url)
 
 * Game Start
