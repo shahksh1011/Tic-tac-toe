@@ -4,21 +4,17 @@
 
 * Start Page
 
-![GitHub Logo](/images/page-1.png)
-Format: ![Alt Text](url)
+[image](/images/page-1.png {width=40px height=400px})
 
 * Game Start
 
 ![GitHub Logo](/images/page-2.png)
-Format: ![Alt Text](url)
 
 * Game In Progress
 
 ![GitHub Logo](/images/page-3.png)
-Format: ![Alt Text](url)
 
 * Game End
 
 ![GitHub Logo](/images/page-4.png)
-Format: ![Alt Text](url)
 
