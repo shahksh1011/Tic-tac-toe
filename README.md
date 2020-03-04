@@ -4,7 +4,7 @@
 
 * Start Page
 
-[image](/images/page-1.png {width=40px height=400px})
+[image](/images/page-1.png)
 
 * Game Start
 
